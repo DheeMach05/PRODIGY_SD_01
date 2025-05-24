@@ -21,5 +21,5 @@ To run this project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://dheemach05.github.io/PRODIGY_SD_01/
    cd temperature-converter
